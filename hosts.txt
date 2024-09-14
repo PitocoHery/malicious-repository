@@ -22,14 +22,15 @@
 
 # Antivirus Blocker (Searching will lead to 400)
 
-	0.0.0.0		https://cyradar.com/
-	0.0.0.0		https://www.avg.com/
-	0.0.0.0		https://www.trendmicro.com/
-	0.0.0.0		https://www.mcafee.com/
-	0.0.0.0		https://www.avira.com/
-	0.0.0.0		https://picart.reasonlabs.com/
-	0.0.0.0		https://www.avast.com/
-	0.0.0.0		https://www.bitdefender.com/
-	0.0.0.0		https://guanjia.lenovo.com.cn/
-	0.0.0.0		https://norton.com/
+	0.0.0.0		https://cyradar.com
+	0.0.0.0		https://www.avg.com
+	0.0.0.0		https://www.trendmicro.com
+	0.0.0.0		https://www.mcafee.com
+	0.0.0.0		https://www.avira.com
+	0.0.0.0		https://picart.reasonlabs.com
+	0.0.0.0		https://www.avast.com
+	0.0.0.0		https://www.bitdefender.com
+	0.0.0.0		https://guanjia.lenovo.com.cn
+	0.0.0.0		https://norton.com
 	0.0.0.0		https://www.kaspersky.com
+	0.0.0.0 	https://www.hitmanpro.com
